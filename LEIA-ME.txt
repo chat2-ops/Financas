@@ -1,8 +1,0 @@
-CONTROLE FINANCEIRO — gastos fixos e resumo em PDF
-
-Para instalar no Git:
-1. Substitua index.html, styles.css e app.js pelos arquivos deste pacote. Mantenha os demais arquivos existentes do app.
-2. Execute supabase-gastos-fixos.sql uma única vez no SQL Editor do projeto Supabase.
-3. Publique as alterações do repositório.
-
-A seção de gastos fixos e as marcações de pagamento ficam sincronizadas via Supabase. O botão “Resumo em PDF” monta o relatório do mês selecionado, com saldo, entradas, gastos, orçamento, fatura, gastos fixos, categorias e lançamentos. Na tela que abrir, toque em “Imprimir / Salvar em PDF” e escolha salvar como PDF no menu de impressão do aparelho.
