@@ -1,0 +1,8 @@
+CONTROLE FINANCEIRO — gastos fixos sincronizados
+
+1. No Supabase do projeto Financas, abra o SQL Editor. Apague o conteúdo atual e cole todo o conteúdo de supabase-gastos-fixos.sql. Confira que a primeira linha começa com: create table if not exists public.fixed_expenses (
+2. Execute o SQL uma vez.
+3. Substitua index.html, styles.css e app.js pelos arquivos deste pacote. Mantenha os demais arquivos do app, como manifest.webmanifest.
+4. Entre na mesma conta em cada aparelho. Os gastos fixos e as marcações de pagamento serão sincronizados.
+
+Ao marcar uma conta como paga, o app cria um lançamento normal no mês selecionado e impede pagamentos duplicados daquela conta no mesmo mês.
