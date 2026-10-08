@@ -1,8 +1,0 @@
-CONTROLE FINANCEIRO — gastos fixos, calculadora e resumo em PDF
-
-Para atualizar no Git:
-1. Extraia este ZIP.
-2. Substitua index.html, styles.css e app.js no repositório; mantenha os demais arquivos existentes.
-3. Publique as alterações.
-
-Recursos: calculadora de operações básicas no cabeçalho; resumo mensal imprimível/salvável em PDF; gastos fixos sincronizados pelo Supabase. Se ainda não executou a configuração SQL, veja supabase-gastos-fixos.sql.
